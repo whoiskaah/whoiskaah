@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! I`m Katrine Farias 👋
+➤ Software Developer (Node.js | JavaScript/TypeScript | React.js | Go)   
+➤ Love for UX   
+➤ Cat person   
 
-<!--
-**whoiskaah/whoiskaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Techs I'm working with at the moment 🔭
+➤ Python  
+➤ Node.js    
+➤ TypeScript    
+➤ HTML
 
-Here are some ideas to get you started:
+## 🌱 I’m currently learning
+➤ React.js 
+➤ Java  
+➤ DevOps  
+➤ Data Science  
+➤ Angular.js 
+➤ Vue.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me 📫
+➤ katrinearaldi@gmail.com 
+➤ [Linkedin](https://www.linkedin.com/in/katrine-araldi-306621207)  
+➤ [Insta](https://www.instagram.com/_whoiskaah_/)  
