@@ -10,10 +10,14 @@
 ➤ HTML
 
 ## 🌱 I’m currently learning
-➤ React.js 
-➤ Java  
-➤ Data Science  
-➤ Angular.js 
+➤ React.js
+
+➤ Java
+
+➤ Data Science
+
+➤ Angular.js
+
 ➤ Vue.js  
 
 ## How to reach me 📫
