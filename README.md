@@ -1,7 +1,7 @@
 # Hi there! I`m Katrine Farias 👋
+
 ➤ Software Developer (Node.js | JavaScript/TypeScript)   
 ➤ Love for FrontEnd
-
 ➤ Cat person   
 
 ## Techs I'm working with at the moment 🔭
