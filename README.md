@@ -1,7 +1,7 @@
 # Hi there! I`m Katrine Farias 👋
-➤ Software Developer (Node.js | JavaScript/TypeScript | React.js | Python)
+➤ Tecnichal Support Engineering (Java | JavaScript/TypeScript | HTML | Python)
 ➤ Love for FrontEnd
-➤ Cat person
+➤ Coffee is my emotional support drink
 
 Techs I'm working with at the moment 🔭
 ➤ Python
@@ -9,6 +9,7 @@ Techs I'm working with at the moment 🔭
 ➤ Node.js
 ➤ TypeScript
 ➤ HTML
+➤ Java
 
 🌱 I’m currently learning
 ➤ Angular.js
@@ -16,7 +17,7 @@ Techs I'm working with at the moment 🔭
 ➤ DevOps
 ➤ Data Science
 ➤ PHP
-➤React.js
+➤ React.js
 
 ## How to reach me 📫
 ➤ katrinearaldi@gmail.com 
