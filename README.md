@@ -1,11 +1,10 @@
 # Hi there! I`m Katrine Farias 👋
-
-➤ Software Developer (Node.js | JavaScript/TypeScript)   
+➤ Software Developer (Node.js | JavaScript/TypeScript | Python)   
 ➤ Love for FrontEnd
 ➤ Cat person   
 
 ## Techs I'm working with at the moment 🔭
-➤ Python  
+➤ Python   
 ➤ Node.js    
 ➤ TypeScript    
 ➤ HTML
