@@ -1,4 +1,4 @@
-# Hi there! I`m Katrine Farias 🖖🏼
+# Hi there! I'm Katrine Araldi 🖖🏼
 ➤ Solutions Support Engineering (Java | JavaScript/TypeScript | HTML | Python)\
 ➤ Love for FrontEnd ❤️\
 ➤ Coffee is my emotional support drink ☕💕
