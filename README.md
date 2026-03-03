@@ -1,5 +1,5 @@
 # Hi there! I`m Katrine Farias 🖖🏼
-➤ Tecnichal Support Engineering (Java | JavaScript/TypeScript | HTML | Python)\
+➤ Solutions Support Engineering (Java | JavaScript/TypeScript | HTML | Python)\
 ➤ Love for FrontEnd ❤️\
 ➤ Coffee is my emotional support drink ☕💕
 
