@@ -1,6 +1,6 @@
 # Hi there! I'm Katrine Araldi 🖖🏼
-➤ Solutions Support Engineering (Java | JavaScript/TypeScript | HTML | Python)\
-➤ Love for FrontEnd ❤️\
+➤ Solutions Engineer (Java | JavaScript/TypeScript | HTML | Python)\
+➤ Love for FrontEnd \
 ➤ Coffee is my emotional support drink ☕💕
 
 ## Techs I'm working with at the moment
